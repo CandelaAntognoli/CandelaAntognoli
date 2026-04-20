@@ -1,13 +1,14 @@
 # ¡Hola! Soy Candela Antognoli 👋
 
-### Analista de Datos enfocada en Data Quality & Integrity | Estudiante de Ciberseguridad
+### Data QA Analyst enfocada en Data Quality & Integrity
 
-Apasionada por transformar datos complejos en activos seguros y confiables para la toma de decisiones estratégicas. Mi enfoque combina el rigor técnico del análisis de datos con una mentalidad orientada a la integridad y protección de la información.
+Apasionada por garantizar la confiabilidad de los datos para la toma de decisiones estratégicas. Mi enfoque combina el rigor técnico del análisis de datos con metodologías de Software Testing para asegurar la integridad de la información en todo su ciclo de vida.
 
-- 🛠️ **Stack Tecnológico:** Python, SQL Server, Power BI, Excel Avanzado.
-- 🚀 **Enfoque:** Limpieza de datos (Data Cleaning), Análisis Exploratorio (EDA) y Visualización.
-- 🔒 **Aprendizaje Continuo:** Actualmente iniciándome en el mundo de la Ciberseguridad.
+🛠 Stack Tecnológico: Python, SQL Server, Power BI, Excel Avanzado.
 
+🧪 Enfoque: Validación de datos (QA), Data Cleaning, Análisis Exploratorio (EDA) y Testing funcional.
+
+🚀 Aprendizaje Continuo: Actualmente profundizando en Software Testing (UTN) para potenciar la calidad en entornos de datos.
 ---
 
 ### 📈 Mi Proyecto Destacado
