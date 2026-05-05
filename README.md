@@ -13,7 +13,7 @@ Apasionada por garantizar la confiabilidad de los datos para la toma de decision
 
 ### 📈 Mi Proyecto Destacado
 - **[NBA Performance Analysis](https://github.com/CandelaAntognoli/Analisis-Predictivo-De-Talento-NBA):** Liderazgo técnico, gestión de repositorio y creación de dashboards interactivos.
-- **[https://github.com/CandelaAntognoli/QA-Testing-Calculadora-Bancaria):** Diseño de estrategias de prueba (BVA/Equivalencia), reporte crítico de errores y documentación técnica de procesos.
+- **https://github.com/CandelaAntognoli/QA-Testing-Calculadora-Bancaria:** Diseño de estrategias de prueba (BVA/Equivalencia), reporte crítico de errores y documentación técnica de procesos.
 
 ---
 
